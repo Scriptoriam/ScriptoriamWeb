@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MsgpdO4aKbM=",
+  "success": true,
+  "projectFilePath": "/Users/armandograterol/ScriptoriamWeb/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/armandograterol/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "/Users/armandograterol/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
